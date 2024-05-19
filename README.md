@@ -1,4 +1,4 @@
-![DDtKey's GitHub stats](https://gh-stats-ddtkey.vercel.app/api?username=ddtkey&include_all_commits=true&show_icons=true&theme=dracula&hide_title=true&show=prs_merged_percentage)
+![DDtKey's GitHub stats](https://gh-stats-ddtkey.vercel.app/api?username=ddtkey&include_all_commits=true&show_icons=true&theme=dracula&hide_title=true)
 
 <!--
 **DDtKey/DDtKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
